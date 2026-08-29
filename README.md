@@ -55,23 +55,12 @@
   <br>
     
   ![SpringBoot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white)
-  ![SpringSecurity](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=SpringSecurity&logoColor=white)
-  <br>
   ![SpringDataJpa](https://img.shields.io/badge/spring%20data%20jpa-6DB33F?style=for-the-badge&logo=hibernate&logoColor=white)
-  ![Junit5](https://img.shields.io/badge/junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-  ![Mockito](https://img.shields.io/badge/Mockito-000000?style=for-the-badge)
   <br>
   ![Oracle](https://img.shields.io/badge/oracle-C74634?style=for-the-badge)
-  ![Hibernate](https://img.shields.io/badge/hibernate-59666C?style=for-the-badge)
-  ![Mybatis](https://img.shields.io/badge/Mybatis-fe6602?style=for-the-badge&logo=Fluentd&logoColor=white)
-  <br>
   ![Github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
   ![Swagger](https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white)
   ![Notion](https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-  <!--
-  ![Jira](https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-  ![Swagger](https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white)
-  -->
 </div>
 
 <br>
