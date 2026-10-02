@@ -2,7 +2,7 @@
 
 <!-- Header color=gradient -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Agbalumo&size=30&pause=2000&color=ffffff&center=true&random=false&width=550&lines=Hello+My+name+is+JunHo%F0%9F%91%8B%F0%9F%91%8B%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=pretendard&size=30&pause=2000&color=ffffff&center=true&random=false&width=550&lines=Hello+My+name+is+JunHo%F0%9F%91%8B%F0%9F%91%8B%F0%9F%91%8B)](https://git.io/typing-svg)
 
 <!--
 <p align="center">
@@ -43,7 +43,6 @@
   ![SpringBoot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white)
   ![SpringDataJpa](https://img.shields.io/badge/spring%20data%20jpa-6DB33F?style=for-the-badge&logo=hibernate&logoColor=white)
   <br>
-  ![Oracle](https://img.shields.io/badge/oracle-C74634?style=for-the-badge)
   ![Github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
   ![Swagger](https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white)
   ![Notion](https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white)
