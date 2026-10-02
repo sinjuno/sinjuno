@@ -2,7 +2,7 @@
 
 <!-- Header color=gradient -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Agbalumo&size=30&pause=2000&color=25292e&center=true&random=false&width=550&lines=Hello+World!+My+name+is+JunHo%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Agbalumo&size=30&pause=2000&color=25282e&center=true&random=false&width=550&lines=Hello+My+name+is+JunHo%F0%9F%91%8B)](https://git.io/typing-svg)
 
 <!--
 <p align="center">
@@ -15,7 +15,7 @@
 <!-- Content -->
   <div align=left>
     <div align=center>
-    👋 안녕하세요. <b>신준호입니다.</b>  <br>
+    안녕하세요. <b>신준호</b> 입니다. <br>
     </div>
   </div>
 
