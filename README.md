@@ -13,9 +13,12 @@
 -->
 
 <!-- Content -->
+  <div align=left>
+    <div align=center>
+    👋 안녕하세요. <b>신준호입니다.</b>  <br>
+    </div>
+  </div>
 
-
-<br>
 <br>
 
 <div align=center>
