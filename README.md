@@ -68,6 +68,8 @@
         src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sinjuno&layout=compact&hide_border=true&theme=shadow_green"
       />
     </td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=sinjuno&theme=tokyonight&hide_border=true&background=0D1117&ring=E9B800&fire=E9B800&currStreakLabel=E9B800&sideLabels=FFFFFF&dates=888888" width="49%"/>
+
   </tr>
 </table>
 </div>
