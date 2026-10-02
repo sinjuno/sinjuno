@@ -91,7 +91,7 @@ If you contact me, I can provide you with a Resume and Portfolio.
 
 <div align=center>
   <a href="https://www.instagram.com/snzvno" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@snzvno-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
 
