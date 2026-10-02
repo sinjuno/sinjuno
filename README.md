@@ -28,14 +28,14 @@
   <br>
   
   <div align=center>
-    <img src="https://skillicons.dev/icons?i=java,spring,mysql,redis,docker" alt="skills logos" />
+    <img src="https://skillicons.dev/icons?i=java,spring,mysql,django" alt="skills logos" />
   </div>
   <div align=center>
-    <img src="https://skillicons.dev/icons?i=js,html,css" alt="skills logos" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,figma" alt="skills logos" />
     <!-- ts -->
   </div>
   <div align=center>
-    <img src="https://skillicons.dev/icons?i=git,postman,idea" alt="skills logos" />
+    <img src="https://skillicons.dev/icons?i=git,postman,idea,docker" alt="skills logos" />
   </div>
   
   <br>
