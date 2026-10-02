@@ -89,6 +89,12 @@ If you contact me, I can provide you with a Resume and Portfolio.
   <a href="https://mail.naver.com/write/ext?srvid=note&to=sinjunho17@naver.com"><img src="https://img.shields.io/badge/Naver%20Mail-03C75A?style=for-the-badge&logo=naver&logoColor=white" alt="Naver Mail"/></a>
 </div>
 
+<div align=center>
+  <a href="https://www.instagram.com/snzvno" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@snzvno-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</div>
+
 </div>
 
 <br>
