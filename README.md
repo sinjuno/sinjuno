@@ -13,13 +13,7 @@
 -->
 
 <!-- Content -->
-<div align=center>
-  <b>⭐ About Me ⭐</b>
-  
-  <br>
-  <br>
-  
-</div>
+
 
 <br>
 <br>
